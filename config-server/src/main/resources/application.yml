@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: git@github.com:VietTruong-50/git-config-repo.git
+
